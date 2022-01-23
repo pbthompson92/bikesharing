@@ -19,3 +19,9 @@ The purpose of this analysis is to explore user data for CitiBike bikesharing in
 ![Image 6](https://user-images.githubusercontent.com/91712554/150665875-e9464a9f-353b-46b1-a9fb-3c5f771279cb.png)
 
 ![Image 7](https://user-images.githubusercontent.com/91712554/150665877-05aec9b0-f22a-4d91-8f3e-c24ea1eaa4af.png)
+
+## Summary 
+Overall, the Citibike bikesharing program in NYC is highly popular. Base on the analysis of the Citibike program, there is evidence to suggest a bike program would also be successful in Des Moines. To examine this further, I would suggest the following visuals: 
+* Reviewing the number of rides per month over at a minimum of one year through a line chart. This would require gathering more data but would also indicate peak vs. down times. For example, my assumption is there are less rides in January than August due to the weather. Understanding this is important to buidling a successful business model. 
+* Building a stacked bar chart to identify how many users in a month were tourists vs. locals based on user data. This would allow for targetting marketing campaings if there are months where tourists make up a great percentage of users, or possible targetted discounts for locals at specific times. 
+
